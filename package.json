@@ -1,0 +1,17 @@
+{
+  "name": "aware-backend",
+  "version": "0.0.1",
+  "description": "Accesses and Working states Awareness Report Engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Jimmyis"
+  ],
+  "author": "Jimmyis <code@jimmyis.com>",
+  "license": "ISC",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  }
+}
